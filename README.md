@@ -16,126 +16,9 @@ Building robust systems and exploring the depths of operating system internals
 
 ## About Me
 
-I'm a passionate systems developer with a deep focus on operating systems, kernel development, and low-level programming. My work centers on understanding how software interacts with hardware at the most fundamental level, with hands-on experience in kernel modules, system calls, and virtualization technologies.
+I’m a systems developer passionate about operating systems, kernel development, and low-level programming, with hands-on experience in system calls, kernel modules, and virtualization.
 
-I thrive on tackling complex problems in systems programming, from implementing custom kernel modules to building complete operating systems from scratch. My approach combines theoretical knowledge with practical experimentation to gain deep insights into computer architecture and OS design.
-
----
-
-## Featured Projects
-
-### Linux Kernel Development with QEMU
-**Exploring Operating System Internals**
-
-Utilized QEMU (Quick Emulation) to create a comprehensive virtualized environment for kernel development and testing. This project provided extensive hands-on experience with:
-
-- Kernel internals, system calls, and low-level debugging techniques
-- Implementation and testing of custom kernel modules in isolated environments
-- In-depth exploration of process scheduling, memory management, and device drivers
-- Safe experimentation with kernel modifications without risking system stability
-
-**Technologies:** C, Assembly, QEMU, GDB, Linux Kernel
-
----
-
-### Complete Operating System Implementation
-**Built from First Principles**
-
-Successfully designed and developed a fully functional operating system, implementing all core components from the ground up:
-
-- **Bootloader:** Custom bootloader for system initialization
-- **Kernel:** Core kernel implementing process management and system services
-- **File System:** Custom file system implementation for data management
-- **Hardware Abstraction:** Direct hardware interaction and abstraction layers
-
-Gained comprehensive understanding of interrupt handling, context switching, memory management, and system initialization procedures.
-
-**Technologies:** C, Assembly, Make, Computer Architecture
-
----
-
-### Summer Research Project
-**Deep Dive into Systems Programming**
-
-Dedicated summer break to intensive study and implementation in systems programming and kernel development:
-
-- Conducted in-depth research on computer architecture and operating system design
-- Built multiple practical projects to reinforce theoretical concepts
-- Explored various low-level technologies and debugging methodologies
-- Developed strong foundation in systems-level thinking and problem-solving
-
----
-
-## Technical Skills
-
-### Programming Languages
-- **Systems Programming:** C, C++, Assembly (x86/x64)
-- **Scripting & Automation:** Python, Bash
-- **Application Development:** Java
-- **Database:** MongoDB
-
-### Operating Systems & Tools
-- **Operating Systems:** Linux (Debian, Ubuntu), Custom OS Development
-- **Virtualization:** QEMU, KVM
-- **Development Tools:** Git, GDB, Make, Vim, VS Code
-- **Kernel Development:** Linux Kernel, Custom Kernel Modules
-
-### Core Competencies
-- Operating System Design & Implementation
-- Low-Level Programming & System Calls
-- Device Driver Development
-- Memory Management & Process Scheduling
-- Computer Architecture & Assembly Programming
-- Virtualization Technologies
-- Systems Security & Exploit Analysis
-- Embedded Systems & Bare-Metal Programming
-
----
-
-## Areas of Expertise
-
-**Operating Systems**
-- Kernel development and architecture
-- Process and thread management
-- Memory management systems
-- File system implementation
-
-**Low-Level Programming**
-- System call implementation
-- Device driver development
-- Interrupt handling and processing
-- Hardware interfacing
-
-**Computer Architecture**
-- CPU architecture and instruction sets
-- Assembly language programming
-- Memory hierarchies and caching
-- I/O systems and bus protocols
-
-**Virtualization & Emulation**
-- QEMU configuration and usage
-- KVM hypervisor technology
-- Virtual machine management
-- Performance optimization
-
-**Systems Security**
-- Vulnerability analysis
-- Kernel-level security mechanisms
-- Security hardening techniques
-- Exploit mitigation strategies
-
----
-
-## Current Learning Focus
-
-- Advanced kernel debugging techniques and tools
-- Device driver development for Linux
-- Real-time operating systems (RTOS) architecture
-- Memory allocator implementations and optimization
-- File system internals and performance tuning
-- Embedded systems and bare-metal programming
-
----
+Alongside systems programming, I’m actively learning Machine Learning and exploring how to integrate intelligent models into embedded and resource-constrained systems. My goal is to build efficient, real-time edge AI solutions that combine deep hardware understanding with practical ML deployment.
 
 ## GitHub Statistics
 
@@ -148,19 +31,6 @@ Dedicated summer break to intensive study and implementation in systems programm
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-CORE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
-
----
-
-## Professional Interests
-
-I'm particularly interested in collaborating on projects involving:
-
-- Operating system development and kernel programming
-- Low-level systems programming and optimization
-- Virtualization and emulation technologies
-- Embedded systems and IoT devices
-- Systems security and hardening
-- Performance-critical applications
 
 ---
 
