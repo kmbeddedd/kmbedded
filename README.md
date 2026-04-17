@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Systems Developer | Linux Kernel Enthusiast | Low-Level Programming Specialist
+### Backend Developer | Machine Learning Enthusiast | Verilog Programming 
 
 Building robust systems and exploring the depths of operating system internals
 
@@ -16,9 +16,7 @@ Building robust systems and exploring the depths of operating system internals
 
 ## About Me
 
-I’m a systems developer passionate about operating systems, kernel development, and low-level programming, with hands-on experience in system calls, kernel modules, and virtualization.
-
-Alongside systems programming, I’m actively learning Machine Learning and exploring how to integrate intelligent models into embedded and resource-constrained systems. My goal is to build efficient, real-time edge AI solutions that combine deep hardware understanding with practical ML deployment.
+I’m actively learning Machine Learning and exploring how to integrate intelligent models into embedded and resource-constrained systems. My goal is to build efficient, real-time edge AI solutions that combine deep hardware understanding with practical ML deployment. Also writing verilog code for fun.
 
 ## GitHub Statistics
 
