@@ -38,7 +38,7 @@ I'm always interested in discussing systems programming, kernel development, and
 
 - **LinkedIn:** [kunaljha0512](https://www.linkedin.com/in/kunaljha0512)
 - **Email:** [kunaljha210@outlook.in](mailto:kunaljha210@outlook.in)
-- **GitHub:** [@KJ-CORE](https://github.com/KJ-CORE)
+- **GitHub:** [@KJ-CORE](https://github.com/kmbeddedd)
 
 ---
 
